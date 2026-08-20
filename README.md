@@ -1,16 +1,10 @@
-# GitHub Pages
+# Clarendon | The Open Law Project
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+> O Direito de forma clara, visual e acessível para todos.
 
-Hey noahcodeur!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/noahcodeur/Clarendon/issues/1)
+Clarendon é uma iniciativa gratuita e open-source criada para traduzir a complexidade do universo jurídico em uma interface limpa, humana e de fácil navegação para o cidadão comum.
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+ **AVISO LEGAL (DISCLAIMER):**
+A Clarendon é uma plataforma estritamente informativa e educacional. O conteúdo aqui disponibilizado não substitui a consulta a um advogado e não constitui assessoria jurídica ou consultoria nos termos da OAB.
